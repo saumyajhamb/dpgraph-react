@@ -1,4 +1,7 @@
 # Interactive Demand-Price Graph
+---
+[Deploy link](https://dpgraph-react.vercel.app/)
+---
 
 An interactive React-based application for visualizing a demand curve and dynamically calculating the total demand for a selected price range. The application allows users to select a portion of the demand curve, which is highlighted on the graph and the total demand for the selected range is calculated and displayed.
 
